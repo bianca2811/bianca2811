@@ -1,7 +1,7 @@
 | ¡Hola! Soy Bianca Valerie Orihuela Sanchez 👋 <br> Electrónica Industrial ⚡ \| Estudiante de Ingeniería de Sistemas Computacionales 💻 |
 | :--- |
 
-[![Más Sobre Mí](TU_ENLACE_AQUÍ)
+[![Más Sobre Mí](https://bianca2811.github.io)
 
 ---
 ### Manejo de Software 🛠️
