@@ -1,5 +1,8 @@
 | ¡Hola! Soy Bianca Valerie Orihuela Sanchez 👋 <br> Electrónica Industrial ⚡ \| Estudiante de Ingeniería de Sistemas Computacionales 💻 |
 | :--- |
+
+[![Más Sobre Mí](TU_ENLACE_AQUÍ)
+
 ---
 ### Manejo de Software 🛠️
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Figma-383838?logo=figma) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](https://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF) ![](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
