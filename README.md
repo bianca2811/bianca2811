@@ -42,7 +42,9 @@ Egresada técnica industrial con sólida práctica en mantenimiento, instalacion
 ---
 ### 💼 Experiencia Laboral
 * **Teleperformance Perú SAC** - OP Customer Expert I (2026)
+  * [Ver Constancia](https://github.com/bianca2811/bianca2811/blob/Certificados/Teleperformance%20Perú%20SAC%20-%20OP%20Customer%20Expert%20I.png) 📄
 * **Colegio Politécnico Nacional del Callao** - Técnico de Mantenimiento e Instalaciones (2020)
+  * [Ver Constancia](https://github.com/bianca2811/bianca2811/blob/Certificados/Colegio%20Politécnico%20Nacional%20del%20Callao%20-%20Técnico%20de%20Mantenimiento%20e%20Instalaciones.jpg) 📄
 ---
 ### 🚀 Proyectos
 * **Lunorion:** Programadora Frontend.
