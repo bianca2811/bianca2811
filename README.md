@@ -1,3 +1,4 @@
+
 <!-- BANNER ROSA -->
 <div align="center">
 
@@ -14,15 +15,16 @@
 <br/>
 
 <a href="https://bianca2811.github.io">
-<img src="https://img.shields.io/badge/💼_MI_PORTAFOLIO-C71585?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼_MI_PORTAFOLIO-C71585?style=for-the-badge&logoColor=white" alt="Mi portafolio"/>
 </a>
 
 </div>
 
 ---
+
 <div align="center">
 
-| ¡Hola! Soy Bianca Valerie Orihuela Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> <br> Electrónica Industrial ⚡ \| Estudiante de Ingeniería de Sistemas Computacionales 💻 |
+| ¡Hola! Soy Bianca Valerie Orihuela Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> <br> Electrónica Industrial ⚡ | Estudiante de Ingeniería de Sistemas Computacionales 💻 |
 | :--- |
 
 </div>
@@ -34,40 +36,40 @@
 ### 💻 Lenguajes de programación
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### ⚙️ Electrónica y desarrollo
 
 <p align="left">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### 🎨 Diseño y prototipado
 
 <p align="left">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ### 🗄️ Bases de datos
 
 <p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🖥️ Software y virtualización
 
 <p align="left">
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ### 📊 Análisis de datos
 
 <p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -88,7 +90,7 @@ class BiancaOrihuela:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Lenguajes más utilizados"/>
 
 </div>
 
