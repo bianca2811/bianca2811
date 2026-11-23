@@ -3,9 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EC7AB5,100:C71585&height=200&section=header&text=Bianca%20Orihuela&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electrónica%20Industrial%20%7C%20Ingeniería%20de%20Sistemas&descAlignY=60&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Desarrolladora+en+formación+%F0%9F%92%BB;Apasionada+por+la+electrónica+%E2%9A%A1;Explorando+Sistemas+Embebidos+%F0%9F%A4%96;Diseñando+soluciones+tecnológicas+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- TEXTO ANIMADO -->
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Desarrolladora+en+formaci%C3%B3n+%F0%9F%92%BB;Apasionada+por+la+electr%C3%B3nica+%E2%9A%A1;Explorando+Sistemas+Embebidos+%F0%9F%A4%96;Dise%C3%B1ando+soluciones+tecnol%C3%B3gicas+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</div>
 
 <br/>
 
