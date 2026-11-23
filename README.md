@@ -1,25 +1,18 @@
-<!-- Banner superior con ondas -->
-<img width="100%" src="https://vercel.app" />
+<!-- Banner superior con ola -->
+<img width="100%" src="https://vercel.app"/>
 
-<!-- Texto animado centrado -->
-<div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
+<!-- Texto animado (Typing SVG) -->
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
 <!-- Contador de visitas -->
-<div align="center">
+<p align="center">
   <img src="https://komarev.com" alt="bianca2811" />
-</div>
+</p>
 
-<br/>
-
-<!-- Línea separadora inferior -->
-<img width="100%" src="https://vercel.app" />
-
+<!-- Línea divisoria inferior -->
+<img width="100%" src="https://vercel.app"/>
 
 
 | ¡Hola! Soy Bianca Valerie Orihuela Sanchez 👋 <br> Electrónica Industrial ⚡ \| Estudiante de Ingeniería de Sistemas Computacionales 💻 | <a href="https://bianca2811.github.io" target="_blank">💼 Mi Portafolio</a> |
